@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Aliaa Dot Net\08 API\Puplish\New folder</_PublishTargetUrl>
+    <History>True|2024-03-26T11:41:41.2643492Z;True|2024-03-26T13:29:46.0204096+02:00;False|2024-03-26T13:28:15.2376509+02:00;True|2024-03-26T13:19:34.4442387+02:00;True|2024-03-25T15:32:04.1991203+02:00;True|2024-03-25T15:29:29.3748323+02:00;True|2024-03-25T14:49:13.3845747+02:00;True|2024-03-25T14:43:25.4081925+02:00;True|2024-03-25T14:35:25.0172739+02:00;True|2024-03-25T14:10:14.1816826+02:00;True|2024-03-25T14:02:49.6519861+02:00;True|2024-03-25T13:51:35.3181708+02:00;True|2024-03-25T03:11:06.5794806+02:00;True|2024-03-25T02:50:37.0617709+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
